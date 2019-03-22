@@ -1,100 +1,130 @@
-Johnny Coder
+Evan Mattiza
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Automation Engineer with experience deploying and maintaining manufacturing
+>  automation solutions and their associated processes. Chemical Engineer by
+>  degree with a broad exposure to all facets of the manufacturing lifecycle
+>  including prototyping, process design and development, equipment design, and
+>  process quality.
 
 ----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Data Systems Engineer, Arconic Inc** 
+07/2018-Present
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Design, Development, and Maintenance of JD Edwards and SQL Server based MES
+solutions to advance Smart Manufacturing objectives for the business unit.
+Deployment of advanced visualizations with Power BI for executive summary and
+performance tracking.
 
-* First item
+* Utilized knowledge in multiple database environments (DB2, SQL Server, Oracle)
+  to collaborate on designs for unified data warehousing to foster cross-plant
+  collaboration on optimizing factors of production via Power BI, resulting in
+  2% improvements in throughput and waste reduction
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Lead effort to refactor press management system and machine parameter database
+  to accomodate multiple supply feedstocks, resulting in strategic sourcing
+  opportunities becoming possible. Enables operators and engineers to optimize
+  recipes based on variable material feedstocks for greater productivity by 20%
+  overall on certain feedstocks and 10% overall at each manufacturing facility
 
-**That Other Job You Had**
+* Developed Web application for management of legacy recipe system using
+  FastAPI against SQL Server with a VueJS frontend. Supported
+  with LDAP authentication against Active Directory for Role Based Access
+  Control on the application.
 
-Also with a short description.
+**Sr. Manufacturing Process Engineer, Dayco Products, LLC** 
+05/2017-07/2018
+
+Prototype Process Design and Process Design of Manufacturing Equipment for Tier
+1 Automotive Supplier to Ford on a safety regulated product (FMVSS).
+
+* Designed and Fabricated custom manufacturing machines for testing of
+  automotive VODM's and their associated components.
+
+* Deployed web application using Django Rest Framework and vanilla javascript
+  with Charts.js to allow for visualization of quality test data for 100%
+  inspection processes. Interfaced with SQL Server database fed test records via
+  FactoryTalk Transaction Manager
+
+* Deployed web application using Twisted and Telnet to plot live pressure-time
+  data of quality tests for ease in troubleshooting test-related issues. Used
+  telnet fed into a websocket with transformed JSON for a per-machine live
+  graph.
+
+* Routinely positioned as the go-to for process quality data and identifying
+  root cause for production issues.
+
+**Sr. Quality Process Engineer, Dayco Products, LLC** 
+03/2016-05/2017
+
+Quality Engineer for heavy duty tensioner product line. Responsible for APQP,
+PPAP, and Corrective Action as required.
+
+* Maintained SQL Server based Control Plan database and provided assistance with
+  automated data modification where required to meet new customer
+  demands/reporting requirements.
+
+* Maintained relations with Supplier Quality Engineer to ensure products
+  delivered conformed to specified requirements and remediated issues related to
+  production that affected quality via Corrective Action processes
+
+**Chemist, Dayco Products, LLC** 
+07/2014-03/2016
+
+Designed and developed formulated rubber compounds for automotive belt and cord
+products. Utilized Design of Experiments and ANOVA to statistically validate
+developmental findings and present enhanced products to customer for validation.
+
+* Gained experience working with rubber processing and testing equipment,
+  including calendars, mixers, mills, festoons, Mooney Viscometers, and Moving
+  Die Rheometers
+
+* Utilized computer skills to help in automating test reporting and analysis for
+  designed experiments in lab for quicker turn around in product development
+  cycles
+
+* Traveled regularly to vehicle validation sites to assist with product
+  validation and to develop relationships with customer product engineers to
+  advance product knowledge and understand customer product needs.
+
+Education
+---------
+
+2010-2014 
+:   **BS, Chemical Engineering**; University of Arkansas (Fayetteville, AR)
+
+    *GPA: 3.4*
+
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Language Experience
+:   **SQL**,
+**Python**,
+**JavaScript**,
+**Bash**,
+**Powershell**,
+**Java**,
+**Visual Basic**,
+**C#**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+Tools/OS Experience
+:   **Saltstack**,
+**Azure**,
+**Linux(Debian and CentOS)**,
+**Django**,
+**Flask**,
+**Vue**,
+**D3**
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <emattiza@gmail.com> • +1 (713) 542-9061 •
+> 1467 Leesburg Ave, Springdale AR 72764
