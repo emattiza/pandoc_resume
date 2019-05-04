@@ -3,11 +3,11 @@ Evan Mattiza
 
 ----
 
->  Automation Engineer with experience deploying and maintaining manufacturing
->  automation solutions and their associated processes. Chemical Engineer by
->  degree with a broad exposure to all facets of the manufacturing lifecycle
->  including prototyping, process design and development, equipment design, and
->  process quality.
+>  An Engineer with a wealth of experience delivering new functionality and
+>  applications for the manufacturing floor and the business. Capable of
+>  learning quickly and working with teams to scope solutions that deliver
+>  value with automation. A skilled Linux, Python, and SQL administrator who can
+>  take on some of your toughest data problems and find solutions.
 
 ----
 
