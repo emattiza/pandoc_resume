@@ -3,19 +3,39 @@ Evan Mattiza
 
 ----
 
->  An Engineer with a wealth of experience delivering new functionality and
->  applications for the manufacturing floor and the business. Capable of
->  learning quickly and working with teams to scope solutions that deliver
->  value with automation. A skilled Linux, Python, and SQL administrator who can
->  take on some of your toughest data problems and find solutions.
+A skilled data analyst with a wealth of experience delivering new
+functionality and applications for the manufacturing floor and retailers.
+Capable of learning quickly and working with project teams to scope solutions
+that deliver value with automation. A well-versed Linux, Python, and SQL
+administrator who can take on some of your toughest data questions and find
+solutions.
 
 ----
 
 Experience
 ----------
+**Associate Client Manager, The Nielsen Company, LLC** 
+09/2019-Present
+
+Create and Scale solutions supporting major retailers in answering the toughest
+Merchant questions. Develop novel models and visualizations to support enhanced
+discovery and decision making by the retailer. Deliver value through hands-on
+collaboration and support.
+
+* Utilized broad SQL experience to craft and convert novel forecast models into
+  scaled data pipelines. Opened the door for the retailer to better understand
+  new product introduction opportunities and assortment optimizations.
+
+* Provided granular insights through integration of exisiting data
+  deliverables, resulting in new revenue opportunities for Nielsen.
+
+* Acted as a force multiplier for the Merchant Analytics team through education
+  on SQL and advanced Excel features to support more sustainable and efficient
+  client support processes that meet needs quicker
+
 
 **Data Systems Engineer, Arconic Inc** 
-07/2018-Present
+07/2018-09/2019
 
 Design, Development, and Maintenance of JD Edwards and SQL Server based MES
 solutions to advance Smart Manufacturing objectives for the business unit.
@@ -37,6 +57,8 @@ performance tracking.
   FastAPI against SQL Server with a VueJS frontend. Supported
   with LDAP authentication against Active Directory for Role Based Access
   Control on the application.
+
+
 
 **Sr. Manufacturing Process Engineer, Dayco Products, LLC** 
 05/2017-07/2018
@@ -74,25 +96,6 @@ PPAP, and Corrective Action as required.
   delivered conformed to specified requirements and remediated issues related to
   production that affected quality via Corrective Action processes
 
-**Chemist, Dayco Products, LLC** 
-07/2014-03/2016
-
-Designed and developed formulated rubber compounds for automotive belt and cord
-products. Utilized Design of Experiments and ANOVA to statistically validate
-developmental findings and present enhanced products to customer for validation.
-
-* Gained experience working with rubber processing and testing equipment,
-  including calendars, mixers, mills, festoons, Mooney Viscometers, and Moving
-  Die Rheometers
-
-* Utilized computer skills to help in automating test reporting and analysis for
-  designed experiments in lab for quicker turn around in product development
-  cycles
-
-* Traveled regularly to vehicle validation sites to assist with product
-  validation and to develop relationships with customer product engineers to
-  advance product knowledge and understand customer product needs.
-
 Education
 ---------
 
@@ -112,13 +115,15 @@ Language Experience
 **Bash**,
 **Powershell**,
 **Java**,
+**Rust**,
 **Visual Basic**,
 **C#**
 
 Tools/OS Experience
 :   **Saltstack**,
-**Azure**,
-**Linux(Debian and CentOS)**,
+**Azure (Synapse and SQL Server)**,
+**Linux (Debian and CentOS)**,
+**Hadoop**,
 **Django**,
 **Flask**,
 **Vue**,
@@ -127,4 +132,4 @@ Tools/OS Experience
 ----
 
 > <emattiza@gmail.com> • +1 (713) 542-9061 •
-> 1467 Leesburg Ave, Springdale AR 72764
+> 7 Kirkbridge Ln., Bella Vista, AR 72714
