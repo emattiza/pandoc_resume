@@ -3,35 +3,44 @@ Evan Mattiza
 
 ----
 
-A skilled data analyst with a wealth of experience delivering new
-functionality and applications for the manufacturing floor and retailers.
+A skilled retail data analyst with a wealth of experience delivering new
+functionality and applications for the largest US-based retailers.
 Capable of learning quickly and working with project teams to scope solutions
-that deliver value with automation. A well-versed Linux, Python, and SQL
-administrator who can take on some of your toughest data questions and find
-solutions.
+that deliver value with automation. A well-versed Python, SQL, and Power BI
+administrator who can take on some of your toughest data questions and craft
+compelling solutions.
 
 ----
 
 Experience
 ----------
-**Associate Client Manager, The Nielsen Company, LLC** 
+**Client Manager, The Nielsen Company, LLC** 
 09/2019-Present
 
-Create and Scale solutions supporting major retailers in answering the toughest
-Merchant questions. Develop novel models and visualizations to support enhanced
-discovery and decision making by the retailer. Deliver value through hands-on
-collaboration and support.
+Create and scale solutions supporting major retailers in answering the toughest
+merchant questions. Develop novel models and visualizations to support enhanced
+discovery and decision making by category buyers. Deliver value through
+hands-on collaboration and support.
 
+* Authored and delivered innovative assortment analytics solutions that resulted
+  in 3 out of 4 new items per category added as a result of delivered insight.
+  Won Impact Award upon nomination by leadership team for outstanding efforts in
+  advancing data-driven decision making with a Top 5 US Retailer
+
+* Primary point of contact and programmer in a partnership collaboration to advance
+  online item discovery and 3rd party marketplace seller identification to a Top
+  5 US Retailer. Scaled existing manual process with Python, Containers, and
+  Azure. Extracted data from partner with very high throughput and deliver to
+  retailer in a streamlined fashion with quick turnaround from request to
+  receipt of data.
+  
 * Utilized broad SQL experience to craft and convert novel forecast models into
   scaled data pipelines. Opened the door for the retailer to better understand
   new product introduction opportunities and assortment optimizations.
 
-* Provided granular insights through integration of exisiting data
-  deliverables, resulting in new revenue opportunities for Nielsen.
-
 * Acted as a force multiplier for the Merchant Analytics team through education
   on SQL and advanced Excel features to support more sustainable and efficient
-  client support processes that meet needs quicker
+  client support processes that meet needs faster
 
 
 **Data Systems Engineer, Arconic Inc** 
@@ -82,20 +91,6 @@ Prototype Process Design and Process Design of Manufacturing Equipment for Tier
 * Routinely positioned as the go-to for process quality data and identifying
   root cause for production issues.
 
-**Sr. Quality Process Engineer, Dayco Products, LLC** 
-03/2016-05/2017
-
-Quality Engineer for heavy duty tensioner product line. Responsible for APQP,
-PPAP, and Corrective Action as required.
-
-* Maintained SQL Server based Control Plan database and provided assistance with
-  automated data modification where required to meet new customer
-  demands/reporting requirements.
-
-* Maintained relations with Supplier Quality Engineer to ensure products
-  delivered conformed to specified requirements and remediated issues related to
-  production that affected quality via Corrective Action processes
-
 Education
 ---------
 
@@ -120,16 +115,20 @@ Language Experience
 **C#**
 
 Tools/OS Experience
-:   **Saltstack**,
+:   
 **Azure (Synapse and SQL Server)**,
-**Linux (Debian and CentOS)**,
+**GCP (BigQuery)**,
+**Power BI**,
+**Looker**,
 **Hadoop**,
+**Linux (Debian and CentOS)**,
+**Saltstack**,
 **Django**,
 **Flask**,
 **Vue**,
-**D3**
+**D3**,
 
 ----
 
-> <emattiza@gmail.com> • +1 (713) 542-9061 •
+> <evan@mattiza.dev> • +1 (713) 542-9061 •
 > 7 Kirkbridge Ln., Bella Vista, AR 72714
